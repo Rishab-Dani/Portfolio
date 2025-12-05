@@ -1,0 +1,4 @@
+{
+  "framework": "nextjs",
+  "rewrites": [{ "source": "/:path*", "destination": "/src/app/:path*" }]
+}
